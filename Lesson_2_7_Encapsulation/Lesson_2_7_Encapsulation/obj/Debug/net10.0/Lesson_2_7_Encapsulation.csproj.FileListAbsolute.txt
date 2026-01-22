@@ -1,0 +1,15 @@
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\bin\Debug\net10.0\Lesson_2_7_Encapsulation.exe
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\bin\Debug\net10.0\Lesson_2_7_Encapsulation.deps.json
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\bin\Debug\net10.0\Lesson_2_7_Encapsulation.runtimeconfig.json
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\bin\Debug\net10.0\Lesson_2_7_Encapsulation.dll
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\bin\Debug\net10.0\Lesson_2_7_Encapsulation.pdb
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\Lesson_2_7_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\Lesson_2_7_Encapsulation.AssemblyInfoInputs.cache
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\Lesson_2_7_Encapsulation.AssemblyInfo.cs
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\Lesson_2_7_Encapsulation.csproj.CoreCompileInputs.cache
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\Lesson_2_7_Encapsulation.sourcelink.json
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\Lesson_2_7_Encapsulation.dll
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\refint\Lesson_2_7_Encapsulation.dll
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\Lesson_2_7_Encapsulation.pdb
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\Lesson_2_7_Encapsulation.genruntimeconfig.cache
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_7_Encapsulation\Lesson_2_7_Encapsulation\obj\Debug\net10.0\ref\Lesson_2_7_Encapsulation.dll

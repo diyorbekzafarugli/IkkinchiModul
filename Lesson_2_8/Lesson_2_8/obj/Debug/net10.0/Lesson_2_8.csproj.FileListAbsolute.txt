@@ -1,0 +1,15 @@
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\bin\Debug\net10.0\Lesson_2_8.exe
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\bin\Debug\net10.0\Lesson_2_8.deps.json
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\bin\Debug\net10.0\Lesson_2_8.runtimeconfig.json
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\bin\Debug\net10.0\Lesson_2_8.dll
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\bin\Debug\net10.0\Lesson_2_8.pdb
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\Lesson_2_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\Lesson_2_8.AssemblyInfoInputs.cache
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\Lesson_2_8.AssemblyInfo.cs
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\Lesson_2_8.csproj.CoreCompileInputs.cache
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\Lesson_2_8.sourcelink.json
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\Lesson_2_8.dll
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\refint\Lesson_2_8.dll
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\Lesson_2_8.pdb
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\Lesson_2_8.genruntimeconfig.cache
+D:\@\Diyorbek\Coding\DotNet\ModulBir\Projects\BirinchiModul\Lesson_2_8\Lesson_2_8\obj\Debug\net10.0\ref\Lesson_2_8.dll
