@@ -1,6 +1,6 @@
 ﻿namespace Lesson_2_8.Services;
 
-public class TeamService : NotificationService
+public class TeamService : INotificationService
 {
     public void SendNotification()
     {

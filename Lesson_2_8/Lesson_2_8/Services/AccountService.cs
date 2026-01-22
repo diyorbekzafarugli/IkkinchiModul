@@ -1,6 +1,6 @@
 ﻿namespace Lesson_2_8.Services;
 
-public class AccountService : NotificationService
+public class AccountService : INotificationService
 {
     public void SendNotification()
     {

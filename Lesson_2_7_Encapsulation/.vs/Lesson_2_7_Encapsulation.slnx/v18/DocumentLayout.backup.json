@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\@\\Diyorbek\\Coding\\DotNet\\ModulBir\\Projects\\BirinchiModul\\Lesson_2_7_Encapsulation\\Lesson_2_7_Encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "Lesson_2_7_Encapsulation\\Program.cs",
-              "ToolTip": "D:\\@\\Diyorbek\\Coding\\DotNet\\ModulBir\\Projects\\BirinchiModul\\Lesson_2_7_Encapsulation\\Lesson_2_7_Encapsulation\\Program.cs*",
-              "RelativeToolTip": "Lesson_2_7_Encapsulation\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\@\\Diyorbek\\Coding\\DotNet\\ModulBir\\Projects\\BirinchiModul\\Lesson_2_7_Encapsulation\\Lesson_2_7_Encapsulation\\Program.cs",
+              "RelativeToolTip": "Lesson_2_7_Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T07:53:21.289Z",
               "EditorCaption": ""

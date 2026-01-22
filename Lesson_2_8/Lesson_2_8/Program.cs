@@ -6,6 +6,19 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        NotificationService notification = 
+        INotificationService notification = GetNotification();
+        notification.SendNotification();
+
+        Console.ReadLine();
+    }
+
+
+    public static INotificationService GetNotification()
+    {
+        INotificationService otherNotification = new AccountService();
+        //INotificationService otherNotification = new TeamService();
+        //INotificationService otherNotification = new EmailService();
+
+        return otherNotification;
     }
 }

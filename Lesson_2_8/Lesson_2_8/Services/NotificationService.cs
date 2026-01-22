@@ -1,6 +1,6 @@
 ﻿namespace Lesson_2_8.Services;
 
-public interface NotificationService
+public interface INotificationService
 {
     public void SendNotification();
 }
