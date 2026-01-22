@@ -9,7 +9,6 @@ internal class Program
         INotificationService notification = GetNotification();
         notification.SendNotification();
 
-        Console.ReadLine();
     }
 
 

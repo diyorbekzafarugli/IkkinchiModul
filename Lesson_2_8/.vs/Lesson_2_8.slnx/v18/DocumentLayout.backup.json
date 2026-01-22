@@ -15,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|solutionrelative:lesson_2_8\\services\\isocialmediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|d:\\@\\diyorbek\\coding\\dotnet\\modulbir\\projects\\ikkinchimodul\\lesson_2_8\\lesson_2_8\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|solutionrelative:lesson_2_8\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|d:\\@\\diyorbek\\coding\\dotnet\\modulbir\\projects\\ikkinchimodul\\lesson_2_8\\lesson_2_8\\models\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|solutionrelative:lesson_2_8\\models\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|d:\\@\\diyorbek\\coding\\dotnet\\modulbir\\projects\\ikkinchimodul\\lesson_2_8\\lesson_2_8\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|solutionrelative:lesson_2_8\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|d:\\@\\diyorbek\\coding\\dotnet\\modulbir\\projects\\ikkinchimodul\\lesson_2_8\\lesson_2_8\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|solutionrelative:lesson_2_8\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73C91AB1-4B0E-209E-F39D-16A7EA07A42B}|Lesson_2_8\\Lesson_2_8.csproj|d:\\@\\diyorbek\\coding\\dotnet\\modulbir\\projects\\ikkinchimodul\\lesson_2_8\\lesson_2_8\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Lesson_2_8\\Program.cs",
               "ToolTip": "D:\\@\\Diyorbek\\Coding\\DotNet\\ModulBir\\Projects\\IkkinchiModul\\Lesson_2_8\\Lesson_2_8\\Program.cs",
               "RelativeToolTip": "Lesson_2_8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T09:46:00.753Z",
               "EditorCaption": ""
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AccountService.cs",
               "DocumentMoniker": "D:\\@\\Diyorbek\\Coding\\DotNet\\ModulBir\\Projects\\IkkinchiModul\\Lesson_2_8\\Lesson_2_8\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "Lesson_2_8\\Services\\AccountService.cs",
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\@\\Diyorbek\\Coding\\DotNet\\ModulBir\\Projects\\IkkinchiModul\\Lesson_2_8\\Lesson_2_8\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Lesson_2_8\\Services\\EmailService.cs",
@@ -104,11 +104,12 @@
               "RelativeToolTip": "Lesson_2_8\\Services\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T11:55:49.944Z"
+              "WhenOpened": "2026-01-22T11:55:49.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SocialMedia.cs",
               "DocumentMoniker": "D:\\@\\Diyorbek\\Coding\\DotNet\\ModulBir\\Projects\\IkkinchiModul\\Lesson_2_8\\Lesson_2_8\\Models\\SocialMedia.cs",
               "RelativeDocumentMoniker": "Lesson_2_8\\Models\\SocialMedia.cs",
@@ -116,8 +117,7 @@
               "RelativeToolTip": "Lesson_2_8\\Models\\SocialMedia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T11:46:46.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T11:46:46.242Z"
             },
             {
               "$type": "Document",
@@ -127,7 +127,7 @@
               "RelativeDocumentMoniker": "Lesson_2_8\\Services\\ISocialMediaService.cs",
               "ToolTip": "D:\\@\\Diyorbek\\Coding\\DotNet\\ModulBir\\Projects\\IkkinchiModul\\Lesson_2_8\\Lesson_2_8\\Services\\ISocialMediaService.cs",
               "RelativeToolTip": "Lesson_2_8\\Services\\ISocialMediaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T11:59:20.898Z",
               "EditorCaption": ""
