@@ -1,0 +1,96 @@
+using System.Runtime.Intrinsics.Arm;
+
+namespace Lesson_2_2_;
+
+internal class Program
+{
+    static List<Book> Books = new List<Book>();
+    static void Main(string[] args)
+    {
+        DataSeed();
+        //GetExpensiveBooks(5);
+        var book = GetMaxPricedBook();
+        Console.WriteLine(book.Price);
+        Console.WriteLine(book.PegeCount);
+    }
+
+    static void DataSeed()
+    {
+        Books.Add(new Book()
+        {
+            BookId = Guid.NewGuid(),
+            Title = "O'tkan kunlar",
+            Author = "Abdulla Qodiriy",
+            Genre = "Roman",
+            Description = "Tarixning xonliklar davridagi voqealar haqida",
+            Price = 16.99m,
+            PegeCount = 360
+        });
+
+        Books.Add(new Book()
+        {
+            BookId = Guid.NewGuid(),
+            Title = "Mehrobdan Chayon",
+            Author = "Abdulla Qodiriy",
+            Genre = "Roman",
+            Description = "Tarixning xonliklar davri",
+            Price = 7.99m,
+            PegeCount = 380
+        });
+
+        Books.Add(new Book()
+        {
+            BookId = Guid.NewGuid(),
+            Title = "Ikki Eshik orasi",
+            Author = "O'tkir Hoshimov",
+            Genre = "Roman",
+            Description = "2 - Jahon urushidagi voqealar",
+            Price = 5.99m,
+            PegeCount = 800
+        });
+
+        Books.Add(new Book()
+        {
+            BookId = Guid.NewGuid(),
+            Title = "Yashamoq",
+            Author = "Yuy Xua",
+            Genre = "Roman",
+            Description = "Xitoyning o'tkan asrdagi axvoli",
+            Price = 7.99m,
+            PegeCount = 300
+        });
+
+    }
+
+
+    static List<Book> GetExpensiveBooks(decimal minPrice)
+    {
+        var expensiveBooks = new List<Book>();
+
+        foreach (var book in Books)
+        {
+            if (book.Price > minPrice)
+            {
+                expensiveBooks.Add(book);
+            }
+        }
+
+        return expensiveBooks;
+    }
+
+    static Book GetMaxPricedBook()
+    {
+        Book maxPriceBook = Books[0];
+
+        foreach (var book in Books)
+        {
+            if (book.Price > maxPriceBook.Price)
+            {
+                maxPriceBook = book;
+            }
+        }
+
+        return maxPriceBook;
+    }
+
+}
